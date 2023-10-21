@@ -35,19 +35,19 @@
 
 ##
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --
 
-##
+##-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cod_rebel_rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cod_rebel_rider" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheusrsilverkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusrsilverkin" height="30" width="40" /></a>
 <a href="https://fb.com/cod-rebel-rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cod-rebel-rider" height="30" width="40" /></a>
-<a href="https://instagram.com/code_rebel_rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_rebel_rider" height="30" width="40" /></a>
+<a href="https://instagram.com/cod_rebel_rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_rebel_rider" height="30" width="40" /></a>
 <a href="/https://cod-rebel-rider.silverkin.com.br/index.php/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cod-rebel-rider.silverkin.com.br/index.php/feed/" height="30" width="40" /></a>
 </p>
 
