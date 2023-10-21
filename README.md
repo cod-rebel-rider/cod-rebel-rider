@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A DevSecOps professional passionate about web development and cybersecurity</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cod-rebel-rider&theme=dracula" alt="cod-rebel-rider" /></a> </p>
+##
 
 <div align="center" >
   <a href="https://github.com/cod-rebel-rider/github-readme-stats">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=cod-rebel-rider&theme=dracula" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=cod-rebel-rider&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cod-rebel-rider&layout=compact&langs_count=8&card_width=300&theme=dracula" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cod-rebel-rider&layout=compact&langs_count=8&card_width=300&theme=dracula" />
   </a>
 </div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cod-rebel-rider&theme=dracula" alt="cod-rebel-rider" /></a> </p>
 
 ##
 <p>
@@ -35,10 +37,10 @@
 
 ##
 
-<!-- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!--### Blogs posts
+ BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END --
+<!-- BLOG-POST-LIST:END 
 
 ##-->
 
@@ -48,7 +50,7 @@
 <a href="https://linkedin.com/in/matheusrsilverkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusrsilverkin" height="30" width="40" /></a>
 <a href="https://fb.com/cod-rebel-rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cod-rebel-rider" height="30" width="40" /></a>
 <a href="https://instagram.com/cod_rebel_rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_rebel_rider" height="30" width="40" /></a>
-<a href="/https://cod-rebel-rider.silverkin.com.br/index.php/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cod-rebel-rider.silverkin.com.br/index.php/feed/" height="30" width="40" /></a>
+<a href="/https://cod-rebel-rider.silverkin.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cod-rebel-rider.silverkin.com.br" height="30" width="40" /></a>
 </p>
 
 ##
