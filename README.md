@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A DevSecOps professional passionate about web development and cybersecurity</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cod-rebel-rider&theme=dracula" alt="cod-rebel-rider" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cod-rebel-rider&theme=dracula" alt="cod-rebel-rider" /></a> </p>
 
-<div>
+<div align="center" >
   <a href="https://github.com/cod-rebel-rider/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=cod-rebel-rider&theme=dracula" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=cod-rebel-rider&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cod-rebel-rider&layout=compact&langs_count=8&card_width=150&theme=dracula" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cod-rebel-rider&layout=compact&langs_count=8&card_width=300&theme=dracula" />
   </a>
 </div>
 
