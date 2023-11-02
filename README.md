@@ -176,8 +176,11 @@
 <h3 align="left">Bootcamps:</h3>
 
 <p align="left">
+  <a href="" target="https://www.dio.me/certificate/7BB80D41/share" rel="noreferrer">
+    <img src="https://hermes.dio.me/tracks/eac28003-aab4-4427-9e80-d750b44894c7.png" alt="Descubra a Nuvem AWS - Nexa resources" height="100"/>
+  </a>
   <a href="" target="https://www.dio.me/certificate/B807F507/share" rel="noreferrer">
-    <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" alt="Formação Linux Fundamentals" height="100"/>
+    <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" alt="Formação HTML Web Developer" height="100"/>
   </a>
   <a href="" target="https://www.dio.me/certificate/73BCBB02/share" rel="noreferrer">
     <img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" alt="Formação Linux Fundamentals" height="100"/>
