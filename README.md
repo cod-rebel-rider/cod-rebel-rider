@@ -59,20 +59,21 @@
 
 <!-- Linguagens Back-End -->
 <p align="left">
+
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50"/>
+    <img height="80" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png" alt="PHP"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50"/>
+    <img height="80" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="Java"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/>
+    <img height="80" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="Python"/>
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="50"/>
+    <img height="80" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/androidsdk_93575.png" alt="Android"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" height="80"/>
   </a>
 </p>
 
@@ -80,44 +81,48 @@
 
 <!-- DevOps -->
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <!--<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50"/>
-  </a>
+  </a>-->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/>
+    <img height="80" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/utilitiesxterminal_93700.png" alt="bash"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/tux_94512.png" alt="linux" height="80"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="80"/>
   </a>
 </p>
 
 <br>
 
-<!-- Linguagens Front-End -->
+<!-- Desenvolvimento Web -->
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" height="80"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" height="80"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="80"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" height="80"/>
   </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/wordpress_94199.png" alt="bootstrap" height="80"/>
+  </a>
+  
 </p>
 
 <br>
 
-<!-- Outras Ferramentas -->
+<!-- Outras Ferramentas --
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/git_93585.png" alt="git" height="80"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/>
@@ -126,7 +131,7 @@
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="50"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" height="80"/>
   </a>
 
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
@@ -142,13 +147,13 @@
 
 <br>
 
-<!-- Ferramentas de Desenvolvimento de Jogos -->
+-- Ferramentas de Desenvolvimento de Jogos -->
 <p align="left">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/unityeditoricon_94269.png" alt="unity" height="80"/>
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/ue4editor_94165.png" alt="unreal" height="80"/>
   </a>
 </p>
 
@@ -157,25 +162,45 @@
 <!-- Ferramentas de Design -->
 <p align="left">
   <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
-    <img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/PHSP/25.1/96x96.png" alt="photoshop" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="photoshop" height="80"/>
   </a>
   <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
-    <img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/ILST/28.0/96x96.png" alt="illustrator" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_illustrator_macos_bigsur_icon_190447.png" alt="illustrator" height="80"/>
   </a>
   <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
-    <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_premiere_pro_macos_bigsur_icon_189485.png" alt="premiere pro" height="80"/>
   </a>
   </a>
   <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
-    <img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/SPRK/57.1.12/96x96.png" alt="xd" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png" alt="xd" height="80"/>
   </a>
 </p>
 
+
+<!--<p align="left">
+  <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/obs_94846.png" alt="photoshop" height="50"/>
+  </a>
+  <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/distributorlogodebian_93598.png" alt="illustrator" height="50"/>
+  </a>
+  <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/firewallconfig_93855.png" alt="premiere pro" height="50"/>
+  </a>
+  </a>
+  <a href="https://www.adobe.com/br/creativecloud.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gitkraken_94666.png" alt="xd" height="50"/>
+  </a>
+  https://cdn.icon-icons.com/icons2/1381/PNG/512/virtmanager_94317.png
+</p>-->
 
 ##
 <h3 align="left">Bootcamps:</h3>
 
 <p align="left">
+  <a href="" target="#" rel="noreferrer">
+    <img src="https://hermes.dio.me/tracks/c18d5f71-9ffa-495f-99ea-a7d564bd93ca.png" alt="DevOps Fundamentals" height="100"/>
+  </a>
   <a href="" target="https://www.dio.me/certificate/7BB80D41/share" rel="noreferrer">
     <img src="https://hermes.dio.me/tracks/eac28003-aab4-4427-9e80-d750b44894c7.png" alt="Descubra a Nuvem AWS - Nexa resources" height="100"/>
   </a>
