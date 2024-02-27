@@ -198,7 +198,7 @@
 <h3 align="left">Bootcamps:</h3>
 
 <p align="left">
-  <a href="" target="#" rel="noreferrer">
+  <a href="" target="https://www.dio.me/certificate/27C2568B/share" rel="noreferrer">
     <img src="https://hermes.dio.me/tracks/c18d5f71-9ffa-495f-99ea-a7d564bd93ca.png" alt="DevOps Fundamentals" height="100"/>
   </a>
   <a href="" target="https://www.dio.me/certificate/7BB80D41/share" rel="noreferrer">
