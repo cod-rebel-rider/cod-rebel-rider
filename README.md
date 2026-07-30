@@ -57,14 +57,6 @@ Trabalho com desenvolvimento web, automação e segurança ofensiva. Gosto de co
 ---
 
 <div align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=cod-rebel-rider&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=E11D48&text_color=F8FAFC&icon_color=E11D48&include_all_commits=true&count_private=true"
-    alt="Estatísticas GitHub"
-  />
-</div>
-
-<div align="center">
 
 <img
   width="100%"
